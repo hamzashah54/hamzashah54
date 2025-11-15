@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on the front-end development.<br>Let's collaborate on front-end Projects.<br>I'm currently learning Backend development.<br>Always open to learning and teamwork!
+🔭 I'm currently working on the front-end development.<br>🤝 Let's collaborate on front-end Projects.<br>🌱 I'm currently learning Backend development.<br>💬 Always open to learning and teamwork!
 
 
 # 💻 Tech Stack:
